@@ -24,9 +24,11 @@
 ---
 
 ### 🚀 Current Focus  
-- ✅ Finishing my **Food Delivery App** project  
-- ✅ Re-learning **React.js** (hooks & state management)  
-- ✅ Growing my **developer portfolio**  
+✅ Completing my passion projects one step at a time
+
+✅ Leveling up my Software Engineering skills to a pro level
+
+✅ Diving deeper into tech to grow, create, and innovate
 
 ---
 
