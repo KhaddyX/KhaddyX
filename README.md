@@ -6,7 +6,7 @@
 ---
 
 ### 👩🏽‍💻 About Me  
-- 🌱 Teenager learning, building, and growing every day.  
+- 🌱 Teenager learning, building, and growing every day.
 - 🎯 Focused on **Full-Stack Development** (Spring Boot + React + SQL/MongoDB).  
 - ✨ Dreaming big: Tech empire + Financial freedom + Peace of mind.  
 
@@ -40,12 +40,14 @@
 ### 🌐 Connect with Me  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adebayokhaddy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devKhaddy.com-0D9488?style=for-the-badge&logo=globe&logoColor=white)](https://Html-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khadija-adebayo)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devKhaddy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devkhaddy)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR-ID)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/iam.khaddy)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KhaddyX)
+
 
 
 ---
